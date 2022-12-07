@@ -2,7 +2,11 @@
 
 ## Overview
 
-Invoke Arduino libraries from CMake-with-AVR
+Invoke codes for Arduino
+
+## See also:
+
+This repository is based on [Enchan1207/AVRWithCMake](https://github.com/Enchan1207/AVRWithCMake).
 
 ## License
 
